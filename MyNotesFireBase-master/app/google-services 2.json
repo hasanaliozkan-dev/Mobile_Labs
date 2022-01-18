@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "181415765591",
+    "firebase_url": "https://anket-69845.firebaseio.com",
+    "project_id": "anket-69845",
+    "storage_bucket": "anket-69845.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181415765591:android:bac3b0181ba859a92a6512",
+        "android_client_info": {
+          "package_name": "hasanali.example.mynotesfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181415765591-ftk1o3q287kc77k257m88h3k1lp0dq15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoUBy-nmbioO0EY5PapWden1LeoAxUzL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181415765591-ftk1o3q287kc77k257m88h3k1lp0dq15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

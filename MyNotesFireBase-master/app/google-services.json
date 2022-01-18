@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "171600803978",
+    "project_id": "fir-example-dcbfc",
+    "storage_bucket": "fir-example-dcbfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171600803978:android:c7f65d69f676e7a5661573",
+        "android_client_info": {
+          "package_name": "hasanali.example.mynotesfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171600803978-552hkh2ipchdnvc9luijjq8eg9g6e2o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdB_-Gac0MmHIG5WAz-l6XcVdt9nlF18E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171600803978-552hkh2ipchdnvc9luijjq8eg9g6e2o4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
